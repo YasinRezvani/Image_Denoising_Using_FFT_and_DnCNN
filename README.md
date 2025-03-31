@@ -1,6 +1,7 @@
 # Image_Denoising_Using_FFT_and_DnCNN
 - **Supervisor:** [Dr. Esmaeel Tahanian](https://scholar.google.com/citations?user=oiGyCF4AAAAJ&hl=en) <br>
 - **Course:** Engineering Mathematics <br>
+- **Organization:** [Shahrood University of Technology](https://www.shahroodut.ac.ir/en/) <br>
 
 This project explores the implementation and comparison of spatial-domain filters, frequency-domain filters using Fast Fourier Transform (FFT), and a deep learning-based Denoising Convolutional Neural Network (DnCNN) model for image enhancement and noise reduction. The results are visualized for two input images to demonstrate performance across different methodologies.
 # Demo :tada:
