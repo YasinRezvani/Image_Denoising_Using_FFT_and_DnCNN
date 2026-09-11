@@ -98,12 +98,7 @@ The DnCNN model produces significantly cleaner results, preserving edges and fin
    cd Image_Denoising_Using_FFT_and_DnCNN
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook:
+2. Run the Jupyter Notebook:
    ```bash
    jupyter notebook main.ipynb
    ```
